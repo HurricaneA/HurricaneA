@@ -1,4 +1,4 @@
-Hey, My name is Kavishka Jayarajah. I'm pretty new for Markdown languages and GitHub. 
+Hey, My name is Kavishkar Jayarajah. I'm pretty new for Markdown languages and GitHub. 
 I'm interested in learning new frameworks and mastering few of them.
 and I'm currently learning Angular and Laravel.
 
